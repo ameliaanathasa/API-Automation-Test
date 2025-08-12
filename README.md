@@ -115,7 +115,7 @@ Untuk melihat test report hasil pengujian dapat diakses melalui direktori :
 `\test-output\index.html`
 
 ### Lingkup ###
-Untuk kebutuhan portofolio, maka ditampilkan test script yang dikerjakan oleh Amelia Nathasa saja 
+Pada repository ini, test script hanya ditampilkan bagian yang ditulis oleh Amelia Nathasa 
 
 ### Referensi ###
 - [Maven Documentation](https://maven.apache.org/guides/index.html)
