@@ -23,7 +23,7 @@ Untuk menjalankan proyek pengujian ini, diperlukan beberapa equipment sebagai pe
     ```
     git clone https://github.com/ameliaanathasa/API-Automation-Test.git
     ```
-2. Buka proyek menggunakan IDE pemrograman. Kami menyarankan menggunakan IntelliJ
+2. Buka proyek menggunakan IDE pemrograman, disarankan menggunakan IntelliJ
 3. Proses instalasi JavaBuild akan dilakukan secara otomatis ketika proyek dibuka dan tunggu hingga proses instalasi selesai.
 
 ### Konfigurasi ###
