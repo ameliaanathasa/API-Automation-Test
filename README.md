@@ -5,7 +5,7 @@ Proyek ini merupakan bagian dari Praktikum Mata Kuliah Pengujian Perangkat Lunak
 - Memahami konsep dasar API Testing
 - Mempelajari penggunaan Maven untuk automation testing
 - Menggunakan data dummy dari DummyAPI untuk pengujian
-- Melakukan pengujian pada data user menggunakan method POST, PUT, DELETE, dan GET.
+- Melakukan pengujian pada data user menggunakan method PUT.
 
 ### Build with / Teknologi ###
 Proyek pengujian API otomatis ini dibangun dengan melibatkan dua library :
